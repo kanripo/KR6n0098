@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:19.637903
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:34
 #+TITLE: 大乘百法明門論疏
 #+PROPERTY: CBETA_ID T44n1837
 #+PROPERTY: ID KR6n0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1837
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0098_T_000-0052c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0098_T_002-0056c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 大乘百法明門論疏卷下¶
+大乘百法明門論疏卷下¶
 ¶
 大慈恩寺沙門大乘光撰¶
 
@@ -222,8 +221,7 @@
 有一闕三：言有一者，謂通三性；言闕三者，謂¶
 一、非遍九地，二、非相續，三、非俱起。
 
-言廢¶
-立六位所由者，初、得後五位，對其遍行，以¶
+言廢立六位所由者，初、得後五位，對其遍行，以¶
 明廢立。遍行五法，具四義故，名遍行；餘皆不¶
 具，非遍行攝。別境五法俱具二義，謂通三性¶
 及遍九地，然非相續亦非俱起，闕此二義¶

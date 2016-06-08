@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:19.610185
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:34
 #+TITLE: 大乘百法明門論疏
 #+PROPERTY: CBETA_ID T44n1837
 #+PROPERTY: ID KR6n0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1837
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0098_T_000-0052c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0098_T_001-0052c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1837[cf.No.1614]¶
-
- 大乘百法明門論疏卷上¶
+No. 1837 [cf. No. 1614]¶
+大乘百法明門論疏卷上¶
 ¶
 大慈恩寺沙門大乘光撰¶
 
